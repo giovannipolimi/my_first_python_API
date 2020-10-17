@@ -1,3 +1,5 @@
 {
-    "python.pythonPath": "C:\\Users\\palazzog\\.conda\\envs\\API_py\\python.exe"
+    "python.pythonPath": "C:\\Users\\palazzog\\.conda\\envs\\API_py\\python.exe",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
 }
